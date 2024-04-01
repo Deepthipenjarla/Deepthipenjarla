@@ -1,2 +1,2 @@
-#### Welcome to My GitHub Playground! 🌍
+## Welcome to My GitHub Playground! 🌍
 
