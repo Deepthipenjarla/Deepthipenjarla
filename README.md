@@ -7,11 +7,6 @@ I'm always curious and love solving problems. I enjoy tackling new challenges an
 * Technologies & Frameworks :  MERN Stack
 * Tools :  Visual Studio Code, Git.
 * Version Control :  Git, GitHub.
-
-
-
-
-
  ##  Get in Touch 📫🌐✨
 * Linkedin : https://www.linkedin.com/in/deepthi-penjarla/ 
 * Portfolio : https://deepthipenjarlaportfolio.vercel.app/
