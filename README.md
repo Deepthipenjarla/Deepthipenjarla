@@ -8,7 +8,7 @@ I'm always curious and love solving problems. I enjoy tackling new challenges an
 
 
 
-###  Get in Touch 📫🌐✨
+ ###  Get in Touch 📫🌐✨
 * Linkedin : https://www.linkedin.com/in/deepthi-penjarla/ 
 * Portfolio : https://deepthipenjarlaportfolio.vercel.app/
 
